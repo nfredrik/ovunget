@@ -3,7 +3,7 @@ Simple documentation tutorial for nfredrik
 
 Another simple header
 ---------------------
-..  code:: python
+..  code::
     print('hello')
     >>hello
 
